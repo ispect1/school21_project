@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 void	push(t_list_link **head, int data)
 {

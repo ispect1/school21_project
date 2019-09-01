@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 void	ft_clear_color_and_len(t_data *data)
 {

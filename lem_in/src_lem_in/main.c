@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 int		rooms_determination3(t_data *data, char *line)
 {

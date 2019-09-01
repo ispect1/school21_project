@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 void	ft__display_ants_moved_2(t_data *data)
 {

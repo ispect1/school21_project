@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 int			ft_search_ant2(t_ant *tmp, int number, int ant, t_data *data)
 {

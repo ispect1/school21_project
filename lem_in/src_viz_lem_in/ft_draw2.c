@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 t_ant	*ft_draw_all_ants(t_ant **ants, t_sdl *sdl, int i, t_data *data)
 {

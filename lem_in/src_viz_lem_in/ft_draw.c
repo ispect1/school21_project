@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../lem_in.h"
+#include "lem_in.h"
 
 void	draw_rect(SDL_Renderer *renderer, int x, int y)
 {
