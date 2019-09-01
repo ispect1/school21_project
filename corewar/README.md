@@ -8,6 +8,8 @@ This project can be broken down into three distinctive parts:
 - __The virtual machine:__ It’s the “arena” in which champions will be executed. It offers various functions, all of which will be useful for the battle of the champions. Obviously, the virtual machine should allow for numerous simultaneous processes.
 - __The champion:__ It's necessary to create a simple champion just to prove the program functionality.
 
+![Corewar](image/corewar2.gif)
+
 How to run:
 
 `git clone https://github.com/lokida9/school21_project.git 21_projects`
