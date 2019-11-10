@@ -14,9 +14,10 @@ This project is a game about ant farm. Its goal is to find the shortest path fro
 
  - `./lem-in < <maps> [ | ./viz]`
 
-### Example:
 
+### Example:
 `./lem-in < maps/maps3.map | ./viz`
+
 
 ### Visualization
 Lem_in virtual machine visualization written using the SDL2 library.
