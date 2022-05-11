@@ -4,7 +4,7 @@
 
 
 #### Projects:
- - __Corewar__ (Implementation of the software game "Core War")
+ - [Corewar](https://github.com/ispect1/school21_project/tree/master/corewar) (Implementation of the software game "Core War")
 
  - __Lem_in__ (Search for shortest paths in a graph)
 
