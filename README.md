@@ -6,8 +6,8 @@
 #### Projects:
  - [Corewar](https://github.com/ispect1/school21_project/tree/master/corewar) (Implementation of the software game "Core War")
 
- - __Lem_in__ (Search for shortest paths in a graph)
+ - [Lem_in](https://github.com/ispect1/school21_project/tree/master/lem_in) (Search for shortest paths in a graph)
 
- - __Push_swap__ (Two stacks quick sorting algorithm)
+ - [Push_swap](https://github.com/ispect1/school21_project/tree/master/push_swap) (Two stacks quick sorting algorithm)
 
- - __Printf__ (Recoding the printf function from the standard library)
+ - [Printf](https://github.com/ispect1/school21_project/tree/master/ft_printf) (Recoding the printf function from the standard library)
